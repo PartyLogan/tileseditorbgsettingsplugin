@@ -1,0 +1,12 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1717401063
+green.png::CompressedTexture2D::1095863265826935833::1717401063::1717401063::1::::<><>::
+icon.svg::CompressedTexture2D::6233252996937836055::1717400964::1717400970::1::::<><>::
+::res://addons/::1717401022
+::res://addons/TilesEditorBGSettingsPlugin/::1717401023
+Blank.svg::CompressedTexture2D::762985569795001886::1717395615::1717401023::1::::<><>::
+Checkerboard.svg::CompressedTexture2D::4174389647298462642::1717321889::1717401023::1::::<><>::
+CheckerboardDark.svg::CompressedTexture2D::8512360559461637074::1717397051::1717401023::1::::<><>::
+ColorPickerButton.svg::CompressedTexture2D::4450379221718964382::1717321889::1717401023::1::::<><>::
+plugin.cfg::TextFile::-1::1717388719::0::1::::<><>::
+TilesEditorBGSettingsPlugin.gd::GDScript::-1::1717400791::0::1::::<>EditorPlugin<>::
